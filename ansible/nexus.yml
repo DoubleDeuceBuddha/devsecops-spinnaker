@@ -1,0 +1,8 @@
+---
+
+- hosts: repo-server
+  vars:
+    nexus_installation_dir: '/opt'
+    nexus_version: 'latest'
+  roles:
+   - jhinrichsen.nexus
