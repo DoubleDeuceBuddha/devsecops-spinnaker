@@ -1,7 +1,7 @@
-spinnaker/.terraform/
+terraform/.terraform/
 
-spinnaker/proddev/README.md
+terraform/proddev/README.md
 
-spinnaker/spinnaker-terraform-1.6.35.tar.gz
+terraform/spinnaker-terraform-1.6.35.tar.gz
 
-spinnaker/armory-env.tmp
+terraform/armory-env.tmp
